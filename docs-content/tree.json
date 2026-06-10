@@ -127,6 +127,15 @@
         { "id": "troubleshooting", "title": "问题排查清单", "path": "/docs-content/guides/troubleshooting.md" },
         { "id": "release-cache", "title": "内容更新与缓存", "path": "/docs-content/guides/release-cache.md" }
       ]
+    },
+    {
+      "id": "poster-center",
+      "title": "12 海报下载中心",
+      "expanded": false,
+      "items": [
+        { "id": "poster-download-center", "title": "海报模板下载", "path": "/docs-content/guides/poster-download-center.md" },
+        { "id": "poster-template-upload", "title": "上传和维护海报模板", "path": "/docs-content/guides/poster-template-upload.md" }
+      ]
     }
   ]
 }
