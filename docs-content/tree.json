@@ -8,6 +8,7 @@
       "items": [
         { "id": "merchant-overview", "title": "这套系统能帮门店做什么", "path": "/docs-content/guides/merchant-overview.md" },
         { "id": "merchant-onboarding", "title": "新店上线流程", "path": "/docs-content/guides/merchant-onboarding.md" },
+        { "id": "hardware-preparation", "title": "硬件准备清单", "path": "/docs-content/guides/hardware-preparation.md" },
         { "id": "store-profile", "title": "完善门店资料", "path": "/docs-content/guides/store-profile.md" },
         { "id": "roles-staff", "title": "账号、员工与权限", "path": "/docs-content/guides/roles-staff.md" }
       ]
