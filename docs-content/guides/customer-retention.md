@@ -22,3 +22,5 @@ summary: 用会员、作品和活动把一次体验变成持续复购。
 - 老客订单占比。
 - 会员卡使用情况。
 - 优惠券领取和核销率。
+
+# [admin](https://admin.pixelbeads.club) 操作指南

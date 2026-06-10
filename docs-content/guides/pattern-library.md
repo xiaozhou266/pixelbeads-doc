@@ -20,3 +20,5 @@ summary: 管理门店常用图纸、顾客作品和可复用内容。
 
 - 定期统计哪些图纸最受欢迎。
 - 把热门图纸和套餐、活动绑定起来。
+
+# [admin](https://admin.pixelbeads.club) 操作指南

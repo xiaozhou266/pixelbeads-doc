@@ -19,3 +19,5 @@ summary: 门店钱包用于按门店维度查看收入、结算和相关流水�
 ## 注意事项
 
 - 财务数据以订单和钱包流水为准。
+
+# [admin](https://admin.pixelbeads.club) 操作指南

@@ -22,3 +22,5 @@ summary: 保护后台账号，避免门店数据和资金风险。
 - 立即修改密码。
 - 禁用可疑员工账号。
 - 查看审计日志和最近订单。
+
+# [admin](https://admin.pixelbeads.club) 操作指南

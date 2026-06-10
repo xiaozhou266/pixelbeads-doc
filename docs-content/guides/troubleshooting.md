@@ -27,3 +27,5 @@ summary: 遇到问题时，按模块快速定位原因。
 - 检查图纸尺寸。
 - 检查设备连接。
 - 检查打印或导出文件。
+
+# [admin](https://admin.pixelbeads.club) 操作指南

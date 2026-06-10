@@ -20,3 +20,5 @@ summary: 管理顾客资料、消费记录和复购关系。
 
 - 不要随意修改顾客余额。
 - 涉及退款和余额变动时，以流水为准。
+
+# [admin](https://admin.pixelbeads.club) 操作指南

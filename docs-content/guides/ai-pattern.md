@@ -20,3 +20,5 @@ summary: 用 AI 快速生成适合拼豆的图纸主题，提升门店创作体�
 
 - AI 图纸需要店员判断是否适合落地。
 - 对复杂图纸要提前说明耗时和材料成本。
+
+# [admin](https://admin.pixelbeads.club) 操作指南

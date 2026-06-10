@@ -20,3 +20,5 @@ summary: 管理拼豆色号和库存，避免热门颜色临时缺货。
 
 - 减少顾客选好图纸后发现缺色的情况。
 - 让补货更有依据。
+
+# [admin](https://admin.pixelbeads.club) 操作指南

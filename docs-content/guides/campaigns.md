@@ -20,3 +20,5 @@ summary: 用活动机制提升顾客参与感和到店频次。
 ## 注意事项
 
 - 活动奖品和兑换规则要提前写清楚。
+
+# [admin](https://admin.pixelbeads.club) 操作指南

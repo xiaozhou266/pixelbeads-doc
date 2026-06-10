@@ -20,3 +20,5 @@ summary: 配置团购平台授权、门店映射和核销参数。
 ## 上线建议
 
 - 正式使用前，先用测试券或低风险订单验证。
+
+# [admin](https://admin.pixelbeads.club) 操作指南

@@ -21,3 +21,5 @@ summary: 用优惠券承接新客、复购和活动转化。
 
 - 收银前确认券是否适用。
 - 异常核销要回到订单里检查。
+
+# [admin](https://admin.pixelbeads.club) 操作指南

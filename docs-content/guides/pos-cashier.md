@@ -22,3 +22,5 @@ summary: POS 用来处理现场收银、加购、补差价和结算。
 
 - 不要用手工备注替代正式收银项目。
 - 退款或优惠要留下可追溯记录。
+
+# [admin](https://admin.pixelbeads.club) 操作指南

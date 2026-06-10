@@ -19,3 +19,5 @@ summary: 用储值卡和次卡提升复购，让顾客下次继续到店。
 ## 经营建议
 
 - 首次体验满意后，是推荐办卡的好时机。
+
+# [admin](https://admin.pixelbeads.club) 操作指南

@@ -22,3 +22,5 @@ summary: 用权限控制不同岗位能看到和操作的内容。
 
 - 员工岗位变化时及时调整权限。
 - 离职后立即禁用账号。
+
+# [admin](https://admin.pixelbeads.club) 操作指南

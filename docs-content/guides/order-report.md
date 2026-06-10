@@ -24,3 +24,5 @@ summary: 通过订单复盘收入结构、套餐表现和异常情况。
 - 调整套餐展示。
 - 优化高峰期排班。
 - 优化价格和活动策略。
+
+# [admin](https://admin.pixelbeads.club) 操作指南

@@ -22,3 +22,5 @@ summary: 规范价格规则，减少结账时的解释成本。
 
 - 结账前确认实际使用时长。
 - 有额外材料或服务时，及时在 POS 中补差价。
+
+# [admin](https://admin.pixelbeads.club) 操作指南
