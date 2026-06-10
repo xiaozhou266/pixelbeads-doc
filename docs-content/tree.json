@@ -6,11 +6,31 @@
       "title": "01 开店准备",
       "expanded": true,
       "items": [
-        { "id": "merchant-overview", "title": "这套系统能帮门店做什么", "path": "/docs-content/guides/merchant-overview.md" },
-        { "id": "merchant-onboarding", "title": "新店上线流程", "path": "/docs-content/guides/merchant-onboarding.md" },
-        { "id": "hardware-preparation", "title": "硬件准备清单", "path": "/docs-content/guides/hardware-preparation.md" },
-        { "id": "store-profile", "title": "完善门店资料", "path": "/docs-content/guides/store-profile.md" },
-        { "id": "roles-staff", "title": "账号、员工与权限", "path": "/docs-content/guides/roles-staff.md" }
+        {
+          "id": "merchant-overview",
+          "title": "这套系统能帮门店做什么",
+          "path": "/docs-content/guides/merchant-overview.md"
+        },
+        {
+          "id": "merchant-onboarding",
+          "title": "新店上线流程",
+          "path": "/docs-content/guides/merchant-onboarding.md"
+        },
+        {
+          "id": "hardware-preparation",
+          "title": "硬件准备清单",
+          "path": "/docs-content/guides/hardware-preparation.md"
+        },
+        {
+          "id": "store-profile",
+          "title": "完善门店资料",
+          "path": "/docs-content/guides/store-profile.md"
+        },
+        {
+          "id": "roles-staff",
+          "title": "账号、员工与权限",
+          "path": "/docs-content/guides/roles-staff.md"
+        }
       ]
     },
     {
@@ -18,11 +38,31 @@
       "title": "02 门店搭建",
       "expanded": false,
       "items": [
-        { "id": "business-hours-booking", "title": "营业时间与预约规则", "path": "/docs-content/guides/business-hours-booking.md" },
-        { "id": "tables-zones", "title": "桌台、区域与座位", "path": "/docs-content/guides/tables-zones.md" },
-        { "id": "services-packages", "title": "项目、套餐与计费方式", "path": "/docs-content/guides/services-packages.md" },
-        { "id": "store-pricing", "title": "价格、押金与加时", "path": "/docs-content/guides/store-pricing.md" },
-        { "id": "wechat-miniapp", "title": "小程序展示与门店入口", "path": "/docs-content/guides/wechat-miniapp.md" }
+        {
+          "id": "business-hours-booking",
+          "title": "营业时间与预约规则",
+          "path": "/docs-content/guides/business-hours-booking.md"
+        },
+        {
+          "id": "tables-zones",
+          "title": "桌台、区域与座位",
+          "path": "/docs-content/guides/tables-zones.md"
+        },
+        {
+          "id": "services-packages",
+          "title": "项目、套餐与计费方式",
+          "path": "/docs-content/guides/services-packages.md"
+        },
+        {
+          "id": "store-pricing",
+          "title": "价格、押金与加时",
+          "path": "/docs-content/guides/store-pricing.md"
+        },
+        {
+          "id": "wechat-miniapp",
+          "title": "小程序展示与门店入口",
+          "path": "/docs-content/guides/wechat-miniapp.md"
+        }
       ]
     },
     {
@@ -30,11 +70,31 @@
       "title": "03 日常接待",
       "expanded": false,
       "items": [
-        { "id": "daily-workflow", "title": "一天的门店操作流程", "path": "/docs-content/guides/daily-workflow.md" },
-        { "id": "booking-checkin", "title": "预约、到店与开台", "path": "/docs-content/guides/booking-checkin.md" },
-        { "id": "table-timer", "title": "桌台计时与续时", "path": "/docs-content/guides/table-timer.md" },
-        { "id": "pos-cashier", "title": "POS 收银与补差价", "path": "/docs-content/guides/pos-cashier.md" },
-        { "id": "order-after-sale", "title": "订单取消、退款与售后", "path": "/docs-content/guides/order-after-sale.md" }
+        {
+          "id": "daily-workflow",
+          "title": "一天的门店操作流程",
+          "path": "/docs-content/guides/daily-workflow.md"
+        },
+        {
+          "id": "booking-checkin",
+          "title": "预约、到店与开台",
+          "path": "/docs-content/guides/booking-checkin.md"
+        },
+        {
+          "id": "table-timer",
+          "title": "桌台计时与续时",
+          "path": "/docs-content/guides/table-timer.md"
+        },
+        {
+          "id": "pos-cashier",
+          "title": "POS 收银与补差价",
+          "path": "/docs-content/guides/pos-cashier.md"
+        },
+        {
+          "id": "order-after-sale",
+          "title": "订单取消、退款与售后",
+          "path": "/docs-content/guides/order-after-sale.md"
+        }
       ]
     },
     {
@@ -42,11 +102,31 @@
       "title": "04 图纸与灯板",
       "expanded": false,
       "items": [
-        { "id": "pattern-business", "title": "图纸在门店里的用法", "path": "/docs-content/guides/pattern-business.md" },
-        { "id": "image-to-pattern", "title": "图片生成图纸", "path": "/docs-content/guides/image-to-pattern.md" },
-        { "id": "ai-pattern", "title": "AI 生图与文生图", "path": "/docs-content/guides/ai-pattern.md" },
-        { "id": "pattern-library", "title": "图纸库与作品管理", "path": "/docs-content/guides/pattern-library.md" },
-        { "id": "smart-board-printing", "title": "智能灯板、打印与导出", "path": "/docs-content/guides/smart-board-printing.md" }
+        {
+          "id": "pattern-business",
+          "title": "图纸在门店里的用法",
+          "path": "/docs-content/guides/pattern-business.md"
+        },
+        {
+          "id": "image-to-pattern",
+          "title": "图片生成图纸",
+          "path": "/docs-content/guides/image-to-pattern.md"
+        },
+        {
+          "id": "ai-pattern",
+          "title": "AI 生图与文生图",
+          "path": "/docs-content/guides/ai-pattern.md"
+        },
+        {
+          "id": "pattern-library",
+          "title": "图纸库与作品管理",
+          "path": "/docs-content/guides/pattern-library.md"
+        },
+        {
+          "id": "smart-board-printing",
+          "title": "智能灯板、打印与导出",
+          "path": "/docs-content/guides/smart-board-printing.md"
+        }
       ]
     },
     {
@@ -54,11 +134,31 @@
       "title": "05 商品、套餐与库存",
       "expanded": false,
       "items": [
-        { "id": "products-mall", "title": "商品与商城", "path": "/docs-content/guides/products-mall.md" },
-        { "id": "inventory-beads", "title": "拼豆库存与色号", "path": "/docs-content/guides/inventory-beads.md" },
-        { "id": "package-definitions", "title": "套餐配置", "path": "/docs-content/guides/package-definitions.md" },
-        { "id": "inventory-alerts", "title": "库存预警与补货", "path": "/docs-content/guides/inventory-alerts.md" },
-        { "id": "ironing-workflow", "title": "熨烫、打包与交付", "path": "/docs-content/guides/ironing-workflow.md" }
+        {
+          "id": "products-mall",
+          "title": "商品与商城",
+          "path": "/docs-content/guides/products-mall.md"
+        },
+        {
+          "id": "inventory-beads",
+          "title": "拼豆库存与色号",
+          "path": "/docs-content/guides/inventory-beads.md"
+        },
+        {
+          "id": "package-definitions",
+          "title": "套餐配置",
+          "path": "/docs-content/guides/package-definitions.md"
+        },
+        {
+          "id": "inventory-alerts",
+          "title": "库存预警与补货",
+          "path": "/docs-content/guides/inventory-alerts.md"
+        },
+        {
+          "id": "ironing-workflow",
+          "title": "熨烫、打包与交付",
+          "path": "/docs-content/guides/ironing-workflow.md"
+        }
       ]
     },
     {
@@ -66,11 +166,31 @@
       "title": "06 会员与营销",
       "expanded": false,
       "items": [
-        { "id": "members", "title": "会员管理", "path": "/docs-content/guides/members.md" },
-        { "id": "value-cards", "title": "储值卡与次卡", "path": "/docs-content/guides/value-cards.md" },
-        { "id": "coupons", "title": "优惠券发放与核销", "path": "/docs-content/guides/coupons.md" },
-        { "id": "campaigns", "title": "活动、排行与盲盒", "path": "/docs-content/guides/campaigns.md" },
-        { "id": "community-growth", "title": "作品社区与内容增长", "path": "/docs-content/guides/community-growth.md" }
+        {
+          "id": "members",
+          "title": "会员管理",
+          "path": "/docs-content/guides/members.md"
+        },
+        {
+          "id": "value-cards",
+          "title": "储值卡与次卡",
+          "path": "/docs-content/guides/value-cards.md"
+        },
+        {
+          "id": "coupons",
+          "title": "优惠券发放与核销",
+          "path": "/docs-content/guides/coupons.md"
+        },
+        {
+          "id": "campaigns",
+          "title": "活动、排行与盲盒",
+          "path": "/docs-content/guides/campaigns.md"
+        },
+        {
+          "id": "community-growth",
+          "title": "作品社区与内容增长",
+          "path": "/docs-content/guides/community-growth.md"
+        }
       ]
     },
     {
@@ -78,10 +198,26 @@
       "title": "07 团购核销",
       "expanded": false,
       "items": [
-        { "id": "voucher-overview", "title": "团购核销能解决什么", "path": "/docs-content/guides/voucher-overview.md" },
-        { "id": "voucher-config", "title": "团购平台配置", "path": "/docs-content/guides/voucher-config.md" },
-        { "id": "voucher-verify", "title": "店员核销流程", "path": "/docs-content/guides/voucher-verify.md" },
-        { "id": "voucher-wallet-alert", "title": "核销扣费与余额提醒", "path": "/docs-content/guides/voucher-wallet-alert.md" }
+        {
+          "id": "voucher-overview",
+          "title": "团购核销能解决什么",
+          "path": "/docs-content/guides/voucher-overview.md"
+        },
+        {
+          "id": "voucher-config",
+          "title": "团购平台配置",
+          "path": "/docs-content/guides/voucher-config.md"
+        },
+        {
+          "id": "voucher-verify",
+          "title": "店员核销流程",
+          "path": "/docs-content/guides/voucher-verify.md"
+        },
+        {
+          "id": "voucher-wallet-alert",
+          "title": "核销扣费与余额提醒",
+          "path": "/docs-content/guides/voucher-wallet-alert.md"
+        }
       ]
     },
     {
@@ -89,11 +225,31 @@
       "title": "08 钱包与财务",
       "expanded": false,
       "items": [
-        { "id": "payment-setup", "title": "微信支付与收款配置", "path": "/docs-content/guides/payment-setup.md" },
-        { "id": "tenant-wallet", "title": "平台钱包充值与扣费", "path": "/docs-content/guides/tenant-wallet.md" },
-        { "id": "store-wallet", "title": "门店钱包与结算", "path": "/docs-content/guides/store-wallet.md" },
-        { "id": "user-wallet", "title": "顾客钱包与余额", "path": "/docs-content/guides/user-wallet.md" },
-        { "id": "reconciliation", "title": "对账、流水与异常订单", "path": "/docs-content/guides/reconciliation.md" }
+        {
+          "id": "payment-setup",
+          "title": "微信支付与收款配置",
+          "path": "/docs-content/guides/payment-setup.md"
+        },
+        {
+          "id": "tenant-wallet",
+          "title": "平台钱包充值与扣费",
+          "path": "/docs-content/guides/tenant-wallet.md"
+        },
+        {
+          "id": "store-wallet",
+          "title": "门店钱包与结算",
+          "path": "/docs-content/guides/store-wallet.md"
+        },
+        {
+          "id": "user-wallet",
+          "title": "顾客钱包与余额",
+          "path": "/docs-content/guides/user-wallet.md"
+        },
+        {
+          "id": "reconciliation",
+          "title": "对账、流水与异常订单",
+          "path": "/docs-content/guides/reconciliation.md"
+        }
       ]
     },
     {
@@ -101,10 +257,26 @@
       "title": "09 员工与安全",
       "expanded": false,
       "items": [
-        { "id": "staff-workbench", "title": "店员工作台", "path": "/docs-content/guides/staff-workbench.md" },
-        { "id": "permissions", "title": "角色权限怎么分配", "path": "/docs-content/guides/permissions.md" },
-        { "id": "audit-security", "title": "敏感操作与审计", "path": "/docs-content/guides/audit-security.md" },
-        { "id": "account-security", "title": "账号安全建议", "path": "/docs-content/guides/account-security.md" }
+        {
+          "id": "staff-workbench",
+          "title": "店员工作台",
+          "path": "/docs-content/guides/staff-workbench.md"
+        },
+        {
+          "id": "permissions",
+          "title": "角色权限怎么分配",
+          "path": "/docs-content/guides/permissions.md"
+        },
+        {
+          "id": "audit-security",
+          "title": "敏感操作与审计",
+          "path": "/docs-content/guides/audit-security.md"
+        },
+        {
+          "id": "account-security",
+          "title": "账号安全建议",
+          "path": "/docs-content/guides/account-security.md"
+        }
       ]
     },
     {
@@ -112,10 +284,26 @@
       "title": "10 经营复盘",
       "expanded": false,
       "items": [
-        { "id": "dashboard-review", "title": "经营看板怎么看", "path": "/docs-content/guides/dashboard-review.md" },
-        { "id": "order-report", "title": "订单与营业额复盘", "path": "/docs-content/guides/order-report.md" },
-        { "id": "table-efficiency", "title": "桌台利用率与翻台", "path": "/docs-content/guides/table-efficiency.md" },
-        { "id": "customer-retention", "title": "复购、会员与私域", "path": "/docs-content/guides/customer-retention.md" }
+        {
+          "id": "dashboard-review",
+          "title": "经营看板怎么看",
+          "path": "/docs-content/guides/dashboard-review.md"
+        },
+        {
+          "id": "order-report",
+          "title": "订单与营业额复盘",
+          "path": "/docs-content/guides/order-report.md"
+        },
+        {
+          "id": "table-efficiency",
+          "title": "桌台利用率与翻台",
+          "path": "/docs-content/guides/table-efficiency.md"
+        },
+        {
+          "id": "customer-retention",
+          "title": "复购、会员与私域",
+          "path": "/docs-content/guides/customer-retention.md"
+        }
       ]
     },
     {
@@ -123,9 +311,21 @@
       "title": "11 常见问题",
       "expanded": false,
       "items": [
-        { "id": "faq", "title": "常见问题", "path": "/docs-content/guides/faq.md" },
-        { "id": "troubleshooting", "title": "问题排查清单", "path": "/docs-content/guides/troubleshooting.md" },
-        { "id": "release-cache", "title": "内容更新与缓存", "path": "/docs-content/guides/release-cache.md" }
+        {
+          "id": "faq",
+          "title": "常见问题",
+          "path": "/docs-content/guides/faq.md"
+        },
+        {
+          "id": "troubleshooting",
+          "title": "问题排查清单",
+          "path": "/docs-content/guides/troubleshooting.md"
+        },
+        {
+          "id": "release-cache",
+          "title": "内容更新与缓存",
+          "path": "/docs-content/guides/release-cache.md"
+        }
       ]
     },
     {
@@ -133,8 +333,11 @@
       "title": "12 海报下载中心",
       "expanded": false,
       "items": [
-        { "id": "poster-download-center", "title": "海报模板下载", "path": "/docs-content/guides/poster-download-center.md" },
-        { "id": "poster-template-upload", "title": "上传和维护海报模板", "path": "/docs-content/guides/poster-template-upload.md" }
+        {
+          "id": "poster-download-center",
+          "title": "海报模板下载",
+          "path": "/docs-content/guides/poster-download-center.md"
+        }
       ]
     }
   ]
