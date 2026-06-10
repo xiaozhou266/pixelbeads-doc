@@ -2,6 +2,8 @@
 title: 完善门店资料
 kicker: 01 开店准备
 summary: 门店资料决定顾客在小程序里看到什么，也影响预约和到店转化。
+date: ''
+description: ''
 ---
 
 ## 需要填写什么
@@ -10,6 +12,12 @@ summary: 门店资料决定顾客在小程序里看到什么，也影响预约�
 - 门店封面、介绍、营业状态。
 - 可预约人数、可用桌台、门店服务说明。
 - 小程序展示图和基础公告。
+
+[![新增门店](/docs-media/20260610-154527.png "步骤一")](https://admin.pixelbeads.club/saas/stores)
+
+[![设置门店信息](/docs-media/20260610-154908.png "步骤二")](https://admin.pixelbeads.club/saas/stores)
+
+[![设置小程序门面](/docs-media/20260610-163455.png)](https://admin.pixelbeads.club/saas/stores)
 
 ## 操作建议
 
