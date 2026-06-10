@@ -1,0 +1,44 @@
+{
+  "title": "章节目录",
+  "groups": [
+    {
+      "id": "basics",
+      "title": "01 基础使用",
+      "expanded": true,
+      "items": [
+        { "id": "intro", "title": "文档库说明", "path": "/docs-content/guides/intro.md" },
+        { "id": "account", "title": "账号与权限", "path": "/docs-content/guides/account.md" },
+        { "id": "first-pattern", "title": "第一张图纸", "path": "/docs-content/guides/first-pattern.md" }
+      ]
+    },
+    {
+      "id": "patterns",
+      "title": "02 图纸流程",
+      "expanded": false,
+      "items": [
+        { "id": "image-to-pattern", "title": "图片转图", "path": "/docs-content/guides/image-to-pattern.md" },
+        { "id": "ai-image", "title": "AI 生图", "path": "/docs-content/guides/ai-image.md" },
+        { "id": "export", "title": "导出与打印", "path": "/docs-content/guides/export.md" }
+      ]
+    },
+    {
+      "id": "store",
+      "title": "03 门店运营",
+      "expanded": false,
+      "items": [
+        { "id": "table-timer", "title": "桌台计时", "path": "/docs-content/guides/table-timer.md" },
+        { "id": "inventory", "title": "库存与色号", "path": "/docs-content/guides/inventory.md" },
+        { "id": "pos", "title": "POS 收银", "path": "/docs-content/guides/pos.md" }
+      ]
+    },
+    {
+      "id": "qa",
+      "title": "04 排查",
+      "expanded": false,
+      "items": [
+        { "id": "faq", "title": "常见问题", "path": "/docs-content/guides/faq.md" },
+        { "id": "release", "title": "发布与缓存", "path": "/docs-content/guides/release.md" }
+      ]
+    }
+  ]
+}
