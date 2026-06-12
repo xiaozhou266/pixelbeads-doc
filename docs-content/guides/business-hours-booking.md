@@ -2,6 +2,8 @@
 title: 营业时间与预约规则
 kicker: 02 门店搭建
 summary: 设置营业时间、预约时段和可预约容量，减少顾客到店冲突。
+date: ''
+description: ''
 ---
 
 ## 需要配置
@@ -23,3 +25,7 @@ summary: 设置营业时间、预约时段和可预约容量，减少顾客到�
 - 某天时段异常，优先检查特殊日期配置。
 
 # [admin](https://admin.pixelbeads.club) 操作指南
+
+![](/docs-media/20260611-020321.png)
+
+![](/docs-media/20260612-132910.png)
